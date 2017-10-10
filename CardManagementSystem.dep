@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3632154102</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Def.h</file>
+      <file>$PROJ_DIR$\CLK.h</file>
+      <file>$PROJ_DIR$\EMW3162.h</file>
+      <file>$PROJ_DIR$\Flash.h</file>
+      <file>$PROJ_DIR$\GPIO.h</file>
+      <file>$PROJ_DIR$\include.h</file>
+      <file>$PROJ_DIR$\LCD12864.h</file>
+      <file>$PROJ_DIR$\MFRC522.h</file>
+      <file>$PROJ_DIR$\MSP430.h</file>
+      <file>$PROJ_DIR$\TA.h</file>
+      <file>$PROJ_DIR$\TB.h</file>
+      <file>$PROJ_DIR$\UART.h</file>
+      <file>$PROJ_DIR$\WDT.h</file>
+      <file>$PROJ_DIR$\CLK.c</file>
+      <file>$PROJ_DIR$\Flash.c</file>
+      <file>$PROJ_DIR$\GPIO.c</file>
+      <file>$PROJ_DIR$\LCD12864.c</file>
+      <file>$PROJ_DIR$\MFRC522.c</file>
+      <file>$PROJ_DIR$\TA.c</file>
+      <file>$PROJ_DIR$\TB.c</file>
+      <file>$PROJ_DIR$\Uart.c</file>
+      <file>$PROJ_DIR$\WDT.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\MiniGSM.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ymath.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\UART.c</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\GPIO.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\WDT.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\CardManagementSystem.txt</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ycheck.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\GPIO.c</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\Flash.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\EMW3162.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\WDT.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\math.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\WDT.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART.pbi</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\MSP430.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\TB.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Flash.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD12864.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\MiniGSM.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\MFRC522.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\MiniGSM.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\io430x14x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\EMW3162.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\MFRC522.r43</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\TA.h</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\TB.c</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\WDT.r43</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\UART.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\Flash.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CLK.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\TA.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Threads.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\CLK.h</file>
+      <file>$PROJ_DIR$\MiniGSM.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Defaults.h</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\CLK.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD12864.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Flash.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Uart.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\EMW3162.c</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\Def.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TB.pbi</file>
+      <file>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\include.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CLK.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\TB.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\io430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CardManagementSystem.pbd</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\CLK.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GPIO.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 8 5 26 60 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 5 26 60 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LCD12864.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MFRC522.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TA.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TB.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\WDT.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\UART.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\WDT.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 26 60 77 64 27 37 51 40 57 58 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\CardManagementSystem.txt</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 55 52 80 70 71 69 50 47 81 73 56 72 53</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\GPIO.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 39 79 26 60 77 64 27 37 51 40 57 58 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 79 26 60 77 64 27 37 51 40 57 58 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\Flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 26 60 77 64 27 37 51 40 57 58 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\TB.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\TA.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MiniGSM.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 2 23 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 2 23 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Users\Administrator\Desktop\&#x6BD5;&#x4e1A;&#x8BBe;&#x8BA1;\MSP430&#x76F8;&#x5173;&#x7A0B;&#x5e8F;&#x6587;&#x4eF6;&#x5907;&#x4eFD;\CLK.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 26 60 39 77 64 27 37 51 40 57 58 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\EMW3162.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 26 60 8 83 46 7 2 0 6 1 4 12 9 10 11 3 36 31 24 74 66 61 49 30 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 26 60 8 83 7 2 0 6 1 4 12 9 10 11 3 36 31 24 74 66 49 30 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\CardManagementSystem.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 59 41 82 42 44 68 78 38 35 75</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
