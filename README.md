@@ -34,6 +34,6 @@
 #### 4. 焊接完成的PCB电路板如下图
 
 
-![PCB](https://thumbnail0.baidupcs.com/thumbnail/de414cd0f8703ef97c14c6906466157c?fid=559684340-250528-468551037266572&time=1507611600&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-QEoIc%2bOhE%2f46q3j%2bOPYc0cvF4MM%3d&expires=8h&chkbd=0&chkv=0&dp-logid=6552991414200832615&dp-callid=0&size=c10000_u10000&quality=90&vuk=559684340&ft=image)
+![PCB](https://thumbnail0.baidupcs.com/thumbnail/de414cd0f8703ef97c14c6906466157c?fid=559684340-250528-468551037266572&time=1507881600&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-48WxcEXieleemJ84LsP8VGpsWNw%3d&expires=8h&chkbd=0&chkv=0&dp-logid=6625519485950431391&dp-callid=0&size=c10000_u10000&quality=90&vuk=559684340&ft=image)
 
 </font>
