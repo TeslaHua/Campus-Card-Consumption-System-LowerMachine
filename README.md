@@ -14,7 +14,7 @@
 
   整个下位机部分的视图：
 
-![LowerMachine](https://thumbnail0.baidupcs.com/thumbnail/24a8d3d6f12a33379b8cb117a4da309d?fid=559684340-250528-1037660589395931&time=1507611600&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-eLV%2fgfMajckfpW8UMZNRFpHzERI%3d&expires=8h&chkbd=0&chkv=0&dp-logid=6552991414200832615&dp-callid=0&size=c10000_u10000&quality=90&vuk=559684340&ft=image)
+![LowerMachine](http://oyqo0q1a2.bkt.clouddn.com/LowerMachine.png)
 
 
    (1). 电路板上所需的电子元器件（请参考电路图）
@@ -34,6 +34,6 @@
 #### 4. 焊接完成的PCB电路板如下图
 
 
-![PCB](https://thumbnail0.baidupcs.com/thumbnail/de414cd0f8703ef97c14c6906466157c?fid=559684340-250528-468551037266572&time=1507881600&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-48WxcEXieleemJ84LsP8VGpsWNw%3d&expires=8h&chkbd=0&chkv=0&dp-logid=6625519485950431391&dp-callid=0&size=c10000_u10000&quality=90&vuk=559684340&ft=image)
+![PCB](http://oyqo0q1a2.bkt.clouddn.com/PCB.png)
 
 </font>
