@@ -14,7 +14,7 @@
 
   整个下位机部分的视图：
 
-![LowerMachine](./img/Hardware-platform.png)
+![LowerMachine](./img/HardwarePlatform.png)
 
    (1). 电路板上所需的电子元器件（请参考电路图）
    
@@ -33,6 +33,6 @@
 #### 4. 焊接完成的PCB电路板如下图
 
 
-![PCB](./img/PCB.png)   ![Schematic](./img/Schematic.png)
+![PCB](./img/PCBPCB.png)   ![Schematic](./img/Schematic.png)
 
 </font>
